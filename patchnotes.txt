@@ -1,18 +1,21 @@
 
 New Update! Get it now if you Haven't.
-The patch notes for this update is... patch notes :o
-<i>§6wooooow BigLad you're so sexy, now make an autoupdater so I don't need to keep going to your stupid server.<i>
-Haha in your dreams if I were to do that I'd need an actual server (that isn't on my ip lol). So that's just a no, unless someone wants to pay me like 30 dollars
-a month to buy a server for a rest api to make everything more secure and allow you to automatically update your shit.
 
----------------------
-Other actual patch notes include:
-A tweaked reconnect - it now seems to quite consistently work other than the first time (for some reason?) so 
-don't expect it to work the first time you open minecraft; Still working on it.
---------------------
+alr so basically, someone suspected that the source of the bans was using menus and inventory whilst scripting.
+This new update will instantly close any inventory as soon as it's opened in the code (so in most cases it won't even show on screen).
+Even so I recommend just not pressing any menu buttons regardless, just in case.
+You also can't use escape or chat just to be safe, but if people think those specific 2 aren't the root cause of the problem I can easily add them back in.
+You can open the script's custom gui as I'm pretty sure the main problem is when opening skyblocks gui over the network.
+Again, even so, try not to open this menu whilst scripting if possible, simply stop it for a second.
+Better safe than sorry. Oh and the reason they had this conclusion is perfectly logical - 
+it's a watchdog ban, as in, nothing to do with skyblock (based on the no wipe and ban message) which makes sense since it's 
+just watchdog doing what watchdog does. 
+Granted, it may be the looking or the movement but those have been
+fine for a while and I see no reason for hypixel to have a problem with them. 
 
-I think that's it for this one, it was mainly the patch notes and reconnect. 
+Oh also the purse thing was apparently showing 10x your actual purse so I divided it by 10,
+and the title now says that accounts username again at the request of chadney
 
-Please feel free to donate at (eth: 0x61769058632b4FD4320F0906d21e83417fe2e7A3),
-(btc: 12pQxPikKzPhaC852hzwqDf2f1TmJpgD3U), (ltc: LV5WHX9wkAUiDAEjS1w3QbwsDFaqf9aDKk)
-id: 3839991799
+Thanks guys and please tell me if this does anything!
+
+id: khj543thjkrgksdjfghk
