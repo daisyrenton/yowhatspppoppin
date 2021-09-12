@@ -1,21 +1,12 @@
 
 New Update! Get it now if you Haven't.
 
-alr so basically, someone suspected that the source of the bans was using menus and inventory whilst scripting.
-This new update will instantly close any inventory as soon as it's opened in the code (so in most cases it won't even show on screen).
-Even so I recommend just not pressing any menu buttons regardless, just in case.
-You also can't use escape or chat just to be safe, but if people think those specific 2 aren't the root cause of the problem I can easily add them back in.
-You can open the script's custom gui as I'm pretty sure the main problem is when opening skyblocks gui over the network.
-Again, even so, try not to open this menu whilst scripting if possible, simply stop it for a second.
-Better safe than sorry. Oh and the reason they had this conclusion is perfectly logical - 
-it's a watchdog ban, as in, nothing to do with skyblock (based on the no wipe and ban message) which makes sense since it's 
-just watchdog doing what watchdog does. 
-Granted, it may be the looking or the movement but those have been
-fine for a while and I see no reason for hypixel to have a problem with them. 
-
-Oh also the purse thing was apparently showing 10x your actual purse so I divided it by 10,
-and the title now says that accounts username again at the request of chadney
-
+Hey, so just a random out of the blue update. Someone (was actually jacob) sparked an idea in my head about the
+reconnect, so I decided to add it. He tested it and it seems to work far better - this should be the final update to the
+reconnect. You should no longer arrive back to your pc with the bot stuck in limbo anymore; it was a problem with my disconnect detection
+which just never worked essentially. It now will. I really hope. Fingers crossed.
+This can also now be used with patcher as I removed the conflicting mod ID.
 Thanks guys and please tell me if this does anything!
+XOXO - your dad BigLad3511 Xx (I should be more professional, huh)
 
-id: khj543thjkrgksdjfghk
+id: gaqye0vmrlxkcuaixwxa
