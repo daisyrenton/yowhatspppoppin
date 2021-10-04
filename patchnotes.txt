@@ -1,12 +1,10 @@
+Ok hey, no update here. Still read though!
+Anyway, recently I've been working on a central database 
+to keep track of all you cheeky fellas since I basically haven't done in the past.
+Coming some point in the next few days, I reckon, will be a sort of purge where I will remove every account from the list
+unless you message me your current usernames. When I ask for it, you have 24 hours to do this before the old list is replaced
+by the new. Just a heads up nothing's happenening yet. Don't message me yet either, the database isn't ready yet.
+I'll probably add a channel (no history ofc so private) on script central when the time comes for you to put the names there too.
+-Jimi Hendrix (get pranked it's me, BigLad)
 
-New Update! Get it now if you Haven't.
-
-Hey, so just a random out of the blue update. Someone (was actually jacob) sparked an idea in my head about the
-reconnect, so I decided to add it. He tested it and it seems to work far better - this should be the final update to the
-reconnect. You should no longer arrive back to your pc with the bot stuck in limbo anymore; it was a problem with my disconnect detection
-which just never worked essentially. It now will. I really hope. Fingers crossed.
-This can also now be used with patcher as I removed the conflicting mod ID.
-Thanks guys and please tell me if this does anything!
-XOXO - your dad BigLad3511 Xx (I should be more professional, huh)
-
-id: gaqye0vmrlxkcuaixwxa
+id: g2vye68skldfkuafgwxa
