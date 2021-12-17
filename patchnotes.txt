@@ -1,10 +1,6 @@
-Ok hey, no update here. Still read though!
-Anyway, recently I've been working on a central database 
-to keep track of all you cheeky fellas since I basically haven't done in the past.
-Coming some point in the next few days, I reckon, will be a sort of purge where I will remove every account from the list
-unless you message me your current usernames. When I ask for it, you have 24 hours to do this before the old list is replaced
-by the new. Just a heads up nothing's happenening yet. Don't message me yet either, the database isn't ready yet.
-I'll probably add a channel (no history ofc so private) on script central when the time comes for you to put the names there too.
--Jimi Hendrix (get pranked it's me, BigLad)
+Hi, forgot to put this here about a week ago, but the old auth system won't work.
+Return to the server if you're still on an older version.
+If you have been added in the last week you're cool and don't need to do this.
+-Conr
 
-id: g2vye68skldfkuafgwxa
+id: gqvoe684mldbkuaygwfa
